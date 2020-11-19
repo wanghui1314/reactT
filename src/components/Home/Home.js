@@ -45,7 +45,7 @@ export default class Home extends Component {
                 <div>
                     <button onClick = {()=>{this.history1('/food')}}>美食4</button>
                     <button onClick = {()=>{this.history1('/movie')}}>电影4</button>
-                    aaaaaaaa
+                   
                 </div>
             </div>
         )
