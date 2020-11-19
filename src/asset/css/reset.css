@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 0.3rem;
+}
+.app{
+    padding-top: 0.8rem;
+}
+.note{
+    color: #ff4400;
+}
+a{
+    display: block;
+    color: #333;
+    text-decoration: none;
+}

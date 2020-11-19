@@ -1,0 +1,15 @@
+.navbar{
+    width: 100vw;
+    height: 40px;
+    display: flex;
+}
+.navbar a{
+    width: 30%;
+    text-align: center;
+    color: #999;
+    font-size: 24px;
+}
+.select{
+    background-color: green;
+    color: purple;
+}

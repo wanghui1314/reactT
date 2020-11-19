@@ -1,0 +1,21 @@
+.header{
+    width: 100vw;
+    height: 60px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: #ff4400;
+}
+.header-title{
+    width: 100%;
+    text-align: center;
+    line-height:60px;
+    color: #fff;
+    font-size: 40px;
+  
+}
+.header-btn{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
